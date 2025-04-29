@@ -1,4 +1,4 @@
-![Screenshot 2025-04-29 070724](https://github.com/user-attachments/assets/ab0feb15-8bf2-4452-b635-095c4f5606c3)# CREDIT_CARD_ANALYISIS
+# CREDIT_CARD_ANALYISIS
 This repository contains Power BI dashboards analyzing credit card transaction data and customer insights. The visualizations provide a comprehensive overview of financial metrics, customer behavior, and demographic insights to support decision-making in banking or financial institutions.
 /CreditCard-Analytics-PowerBI
 │
